@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tapiwagit
-- 👀 I’m interested in Python and Machine Learning.
-- 🌱 I’m currently learning Python on Udemy and Edx.
-- 💞️ I’m looking to collaborate on, well Im not there yet
-- 📫 How to reach me tapiwangwadzai@gmail.com 
+- 👀 I’m interested in Django, Python, RESTAPI.
+- 🌱 I’m currently learning Django for APIs.
+- 💞️ I’m looking to collaborate on django restframework and fastapis,  
+- 📫 How to reach me githubtapiwa@gmail.com 
 
 <!---
 Tapiwagit/Tapiwagit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
