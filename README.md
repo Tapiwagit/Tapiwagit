@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tapiwagit
 - 👀 I’m interested in Django, Python, RESTAPI.
 - 🌱 I’m currently learning Django for APIs.
-- 💞️ I’m looking to collaborate on django restframework and fastapis,  
+- 💞️ I’m looking to learn more on django restframework and fastapis,  
 - 📫 How to reach me githubtapiwa@gmail.com 
 
 <!---
